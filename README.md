@@ -1,0 +1,2 @@
+# Dynamic-Web-App
+Shooting Arena is a dynamic wesite created using Python, HTML, CSS. This webite is designed for a shooting arena where users can log in and book the slots for gun shooting sessions. The website consists of two modules Administrator and  Player. The players can view the future games hosted by the game organiser.If the players are interested with the games,the players can send  participation requests with payment confirmation.The game organiser can view the hosted games.Organiser can view the participants for the games hosted. 
